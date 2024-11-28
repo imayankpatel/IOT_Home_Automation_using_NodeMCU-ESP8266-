@@ -7,3 +7,4 @@ Sensors, such as motion detectors, temperature, or light sensors, can also be in
 
 This system’s affordability, reliability, and scalability make it ideal for creating customized home automation solutions, empowering users to enhance comfort, security, and energy efficiency in their homes.
 
+![Home Automation using NodeMCU (ESP8266)](https://github.com/user-attachments/assets/95a5b582-2a93-49fd-b873-059d9c3f35dd)
